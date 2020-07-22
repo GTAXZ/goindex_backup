@@ -15,6 +15,17 @@ function init(){
 </header>
 <div id="content" class="mdui-container"> 
 </div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 横向 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9126489165584272"
+     data-ad-slot="7861746441"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 	`;
     $('body').html(html);
 }
