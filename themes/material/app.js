@@ -15,6 +15,7 @@ function init(){
 </header>
 <div id="content" class="mdui-container"> 
 </div>
+<div id="content" class="mdui-container">
 <div class="mdui-row"> 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 横向 -->
@@ -27,6 +28,7 @@ function init(){
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
 </div>
 	`;
     $('body').html(html);
